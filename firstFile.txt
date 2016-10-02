@@ -1,1 +1,3 @@
 Welcome to my first file!
+
+Reminder: Don't forget to bring a towel.
